@@ -1,2 +1,9 @@
 # HCI-PUSL3122-Shape-Visualization
-This repository contains a java project which is used for the shape visualization (2D + 3D). This is one of my university group project.
+----------------------------------
+
+Developers: Sahan Karunaratne, Madhusha Fonseka, Vishwa Kuruppu, Shenal Rasheed & Kaushani Wanniarachchi.
+Project Type: Collaboration.
+
+Languages & technologies used: Java, Java Swing, Keeptoo, JPanel...
+
+Functionality: Targeting at small kids, this java swing application has been developed. Kids can understand various 2D and 3D shapes using this software. (Ex : Triangle, Rectangle, Square, Cube, Cuboid, Cylinder... etc.). Ability to change the properties (color, sharpness, shadow... etc.) of the each shape using the Jpanel helps them to pocess a better understanding about various 2D & 3D shapes.
