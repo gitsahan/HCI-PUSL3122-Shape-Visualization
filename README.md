@@ -2,7 +2,10 @@
 ----------------------------------
 
 Developers: Sahan Karunaratne, Madhusha Fonseka, Vishwa Kuruppu, Shenal Rasheed & Kaushani Wanniarachchi.
+
 Project Type: Collaboration.
+
+Year: 2023.
 
 Languages & technologies used: Java, Java Swing, Keeptoo, JPanel...
 
